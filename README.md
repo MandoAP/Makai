@@ -1,6 +1,6 @@
 # Makai
 
-### Makai technology revolutionizes the way you reserve your desired water sports equipment, making it more accessible and hassle-free. By partnering with local entrepreneurs, our platform enables you to rent out high-quality equipment, providing a vast network of options to choose from, all located close to your chosen water destination. This repository contains SQL, .NET, and React code.
+### Makai technology revolutionizes the way you reserve your desired water sports equipment, making it more accessible and hassle-free. By partnering with local entrepreneurs, Makai platform enables you to rent out high-quality equipment, providing a vast network of options to choose from, all located close to your chosen water destination. This repository contains SQL, .NET, and React code.
 My role as a software engineer was to implement the functionality of the comments feature. I was required to handle all the coding from the backend to the frontend. Below is a list of the actions I took to accomplish my responsibilities.
 
 ● Developed and structured the comments feature functionality from front-end to back-end.
